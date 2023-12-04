@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC Car Key</string>
+    <string name="servicedesc">NFC Car Key Service</string>
+    <string name="aiddescription">NFC Car Key AID</string>
+</resources>
